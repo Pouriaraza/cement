@@ -2,7 +2,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import HeaderNavLink from './HeaderNavLink';
 const menuItems = [
-  { label: `خانه`, url: `/` },
   { label: `منو`, url: `/menu` },
   { label: `تماس با ما`, url: `/contact` }
 

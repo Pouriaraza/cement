@@ -13,7 +13,7 @@ const Home = () => {
                             <span className="loc"></span>
                         </div>
                         <div className="discripsion">
-                            <p><span>آدرس:</span>هران- شهران شمالی - بالاتر از فلکه سوم شهران - کافه سِمِنت
+                            <p><span>آدرس:</span>شهران- شهران شمالی - بالاتر از فلکه سوم شهران - کافه سِمِنت
                             </p>
                         </div>
                     </a>
@@ -22,12 +22,12 @@ const Home = () => {
                             <span className="call"></span>
                         </div>
                         <div className="discripsion">
-                            <p><span>شماره :</span> ۰۹۲۱ ۳۸۸ ۷۸۰۸</p>
+                            <p><span>شماره :</span> ۰۹۲۱۳۸۸۷۸۰۸</p>
                         </div>
                     </a>
                     <section className="item">
                         <div className="icon">
-                            <span></span>
+                            <span className="time"></span>
                         </div>
                         <div className="discripsion">
                             <p><span>ساعت کاری :</span> <a href="#">شنبه تا جمعه  از ساعت ۹:۰۰ تا ۲۲:۰۰</a></p>
