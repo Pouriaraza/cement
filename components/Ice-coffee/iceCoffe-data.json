@@ -1,0 +1,30 @@
+{
+  "iceCoffe": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "آیس آمریکانو",
+        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Ficed-americano21%2Fa223875bb8c246ee144398afaf8a9ec8.jpg&w=256&q=30",
+        "price": "۷۹,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "آیس لاته",
+        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Ficed-latte63%2F8cd4abfe4d4e4dbb320337d4d24a21d5.jpg&w=256&q=30",
+        "price": "۹۹,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "آیس کارامل ماکیاتو",
+        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Ficed-karamel-machiato%2F7d4e4887f7eae08d99b51fe19a48fae3.jpg&w=256&q=30",
+        "price": "۱۰۴,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "فراپه شکلات",
+        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Ffrape-chocolate%2F0b9f6d43f70f1e72637387ad1205d8f5.jpg&w=256&q=30",
+        "price": "۱۲۴,۰۰۰"
+      }
+    ]
+  }
+}

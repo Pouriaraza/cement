@@ -1,0 +1,82 @@
+@font-face {
+    font-family: light;
+    src: url(../../../public/Fonts/IRANSans_Light.ttf);
+}
+.contact {
+    margin: 0 1rem;
+    font-family: light;
+    height: 100vh;
+    h3 {
+        font-size: 1.5rem;
+    }
+}
+a {
+    color: black;
+}
+.icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(199 199 199);
+    margin-left: 0.5rem;
+    span {
+        height: 100%;
+        width: 100%;
+        background-size: 2rem !important;
+        display: block;
+    }
+}
+.instagram {
+    background: url(../../../public/imgs/icon/iconmonstr-instagram-11-240.png) center center no-repeat;
+}
+.loc {
+    background: url(../../../public/imgs/icon/iconmonstr-location-pin-thin-240.png) center center no-repeat;
+}
+.call {
+    background: url(../../../public/imgs/icon/iconmonstr-phone-thin-240.png) center center no-repeat;
+}
+
+.item {
+    display: flex;
+    margin-top: 1rem;
+    .discripsion {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        p {
+            font-size: 1rem;
+            span {
+                margin-left: 10px;
+            }
+        }
+    }
+}
+
+.flexing {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.social {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    a {
+        width: 4rem;
+        height: 4rem;
+        border-radius: 50%;
+        display: block;
+        border: 2px solid;
+        &::after {
+            width: 100%;
+            height: 100%;
+            content: "";
+            display: block;
+            background: url(../../../public/imgs/icon/iconmonstr-instagram-11-240.png) center center no-repeat;
+            background-size: 2rem !important;
+        }
+    }
+}
