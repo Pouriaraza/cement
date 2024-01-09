@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { items } from "./data.json";
 export default function Popular() {
     const { swiper } = items;
@@ -6,7 +7,7 @@ export default function Popular() {
             <h2 id="Popular">پر طرفدار ها</h2>
             {swiper.map((item) => (
                 <div div key={item.id} className='item'>
-                    <img src={item.imgs} alt="ok" />
+                    <Image src={item.imgs} alt="ok" width={100} height={100} />
                     <div className='info-item'>
                         <h2>{item.names}</h2>
                         <div className='price'>

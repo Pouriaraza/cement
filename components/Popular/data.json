@@ -4,25 +4,25 @@
       {
         "id": 1,
         "names": "اسپرسو",
-        "imgs": "./imgs/sperso.jpg",
+        "imgs": "/imgs/sperso.jpg",
         "price": "۴۰,۰۰۰"
       },
       {
         "id": 2,
         "names": "آمریکنو",
-        "imgs": "./imgs/amricano.webp",
+        "imgs": "/imgs/amricano.webp",
         "price": "۴۸,۰۰۰"
       },
       {
         "id": 3,
         "names": "کافه لاته",
-        "imgs": "./imgs/shake.webp",
+        "imgs": "/imgs/shake.webp",
         "price": "۸۰,۰۰۰"
       },
       {
         "id": 4,
         "names": "آب معدنی ۵۰۰ سی سی لایت",
-        "imgs": "./imgs/water.webp",
+        "imgs": "/imgs/water.webp",
         "price": "۵,۰۰۰"
       }
     ]

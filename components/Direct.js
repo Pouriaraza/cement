@@ -21,7 +21,7 @@ const Direct = () => {
         </h1>
         <div className="direct">
           {menuItems.map(({ url, label }, index) => (
-            <HeaderNavLink href={url}>{label}</HeaderNavLink>
+            <HeaderNavLink key={index} href={url}>{label}</HeaderNavLink>
           ))}
         </div>
       </div>

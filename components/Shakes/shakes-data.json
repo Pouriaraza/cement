@@ -4,25 +4,25 @@
       {
         "id": 1,
         "names": "میلک شیک لبو",
-        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_products_images%2Fbeet-root-shake_raees-shop164%2Ffa9d1d85136319f3f6a89f11ad6ed0ab.jpg&w=256&q=30",
+        "imgs": "/imgs/shake.webp",
         "price": "۱۴۰,۰۰۰"
       },
       {
         "id": 2,
         "names": "میلک شیک شکلات فندقی",
-        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Fsheyk-shokolat-fandoghi-original%2Fe66e581edb5a4da581739f03fe27ee03.jpeg&w=256&q=30",
+        "imgs": "/imgs/shake.webp",
         "price": "۱۴۸,۰۰۰"
       },
       {
         "id": 3,
         "names": "میلک شیک شکلات فندقی موز",
-        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Fnuttela-moz-original%2F523695874367d2a2b5deeb73bb5025fe.jpeg&w=256&q=30",
+        "imgs": "/imgs/shake.webp",
         "price": "۱۳۰,۰۰۰"
       },
       {
         "id": 4,
         "names": "میلک شیک نوتلا موز",
-        "imgs": "https://raees.shop/_next/image?url=https%3A%2F%2Fhs3-cdn-saas.behtarino.com%2Fmedia%2FCACHE%2Fimages%2Fbusiness_deals_images%2Fnuttela-moz-original396%2F76d25aaf41ba557defb603e6b280712b.jpeg&w=256&q=30",
+        "imgs": "/imgs/shake.webp",
         "price": "۱۵,۰۰۰"
       }
     ]
