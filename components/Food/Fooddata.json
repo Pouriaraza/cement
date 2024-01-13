@@ -3,21 +3,15 @@
     "swiper": [
       {
         "id": 1,
-        "names": "MY MOON",
+        "names": "برگر VIP CEMENT",
         "imgs": "/imgs/sperso.jpg",
-        "price": "۲۸۰,۰۰۰"
+        "price": "۳۵۰,۰۰۰"
       },
       {
         "id": 2,
-        "names": "BLACK LIGHT",
+        "names": "سیب زمینی ویژه",
         "imgs": "/imgs/amricano.webp",
-        "price": "۲۸۰,۰۰۰"
-      },
-      {
-        "id": 3,
-        "names": "GRAY CEMENT",
-        "imgs": "/imgs/shake.webp",
-        "price": "۲۸۰,۰۰۰"
+        "price": "۱۸۰,۰۰۰"
       }
     ]
   }
