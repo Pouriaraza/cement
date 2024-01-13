@@ -1,0 +1,36 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "آفاگاتو",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۸۵,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "آیس آمیرکانو",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۹۹,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "آیس لته",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۹۰,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "آیس موکا",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۹۸,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "آیس کارامل ماکیاتو",
+        "imgs": "",
+        "price": "۹۸,۰۰۰"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "صبحانه انگلیسی",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۱۶۰,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "املت ایرانی مخصوص",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۸۰,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "سوسیس تخم مرغ",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۹۰,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "نیمرو",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۶۰,۰۰۰"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "موهیتو",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۹۸,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "رین بو",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۴۸,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "رین بو",
+        "imgs": "/imgs/shake.webp",
+        "price": "۹۸,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "گرین بلک",
+        "imgs": "/imgs/water.webp",
+        "price": "۹۸,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "پیناکولدا",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۱۵,۰۰۰"
+      },
+      {
+        "id": 6,
+        "names": "بلو هاوایی",
+        "imgs": "/imgs/shake.webp",
+        "price": "۹۸,۰۰۰"
+      },
+      {
+        "id": 7,
+        "names": "گرین دراگون",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۱۵,۰۰۰"
+      },
+      {
+        "id": 8,
+        "names": "کاکتوس",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۱۵,۰۰۰"
+      },
+      {
+        "id": 9,
+        "names": "بلومانتین",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۱۵,۰۰۰"
+      }
+    ]
+  }
+}

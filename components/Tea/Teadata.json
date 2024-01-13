@@ -1,0 +1,54 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "چای دمی مخصوص",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۳۵,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "چاس سبز",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۵۵,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "چای ترش",
+        "imgs": "/imgs/shake.webp",
+        "price": "۵۵,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "دمنوش گل گاو زیان",
+        "imgs": "/imgs/water.webp",
+        "price": "۶۵,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "دمنوش به لیمو و بهار نارنج",
+        "imgs": "/imgs/shake.webp",
+        "price": "۶۵,۰۰۰"
+      },
+      {
+        "id": 6,
+        "names": "دمنوش سیب دارچین",
+        "imgs": "/imgs/shake.webp",
+        "price": "۷۸,۰۰۰"
+      },
+      {
+        "id": 7,
+        "names": "دمنوش سلامتی",
+        "imgs": "/imgs/shake.webp",
+        "price": "۷۸,۰۰۰"
+      },
+      {
+        "id": 8,
+        "names": "دمنوش آرامش",
+        "imgs": "/imgs/shake.webp",
+        "price": "۷۸,۰۰۰"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "کیت کت",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۳۰,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "توت فرنگی",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۳۰,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "وانیل",
+        "imgs": "/imgs/shake.webp",
+        "price": "۳۰,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "کارامل",
+        "imgs": "/imgs/water.webp",
+        "price": "۳۰,۰۰۰"
+      }
+    ]
+  }
+}

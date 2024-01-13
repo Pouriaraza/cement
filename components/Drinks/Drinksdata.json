@@ -1,0 +1,24 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "آب معدنی",
+        "imgs": "/imgs/sperso.jpg",
+        "price": " "
+      },
+      {
+        "id": 2,
+        "names": "دلستر",
+        "imgs": "/imgs/amricano.webp",
+        "price": " "
+      },
+      {
+        "id": 3,
+        "names": "نوشابه",
+        "imgs": "/imgs/amricano.webp",
+        "price": " "
+      }
+    ]
+  }
+}

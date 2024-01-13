@@ -1,0 +1,66 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "آدامس دارچین",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "سیب یخ",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "آلو یخ",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "تمشک بستنی",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "انبه",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 6,
+        "names": "پرتقال خامه",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 7,
+        "names": "بلوبری",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 8,
+        "names": "دوسیب آلبالو",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 9,
+        "names": "هندوانه نعنا",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 10,
+        "names": "لیو نعنا",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      }
+    ]
+  }
+}

@@ -28,12 +28,19 @@ export default function Menucom() {
         <section style={{ position: isFixed ? 'fixed' : 'static', top: '0', background: "#fff", width: "100%" }}>
             <ul>
                 <li><a href="#Popular">پرطرفدار</a></li>
-                <li><a href="#ice-coffe">قهوه سرد</a></li>
+                <li><a href="#Icecoffe">قهوه سرد</a></li>
                 <li><a href="#shakes">شیک</a></li>
-                <li>نوشیدنی</li>
-                <li>چای</li>
-                <li>شیرینی</li>
-                <li>کوکی ها</li>
+                <li><a href='#Coffee'>قهوه</a></li>
+                <li><a href='#Breakfast'>صبحانه</a></li>
+                <li><a href='#drinks'>نوشیدنی</a></li>
+                <li><a href='#food'>غذا</a></li>
+                <li><a href='#Fruitwater'>آب میوه طبیعی</a></li>
+                <li><a href='#Hotdrink'>نوشیدنی های گرم</a></li>
+                <li><a href='#Icecream'>بستنی ها</a></li>
+                <li><a href='#Mactels'>ماکتل ها</a></li>
+                <li><a href='#Smoke'>قلیان ها</a></li>
+                <li><a href='#Tea'>چای</a></li>
+                <li><a href='#Vipsmoke'>قلیان های vip</a></li>
             </ul>
         </section>
     )

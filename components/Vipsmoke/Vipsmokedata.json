@@ -1,0 +1,18 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "برگر VIP CEMENT",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۳۵۰,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "سیب زمینی ویژه",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۱۸۰,۰۰۰"
+      }
+    ]
+  }
+}

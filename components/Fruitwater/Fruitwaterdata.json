@@ -1,0 +1,36 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "آب هویج",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۶۰,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "آب هندوانه",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۷۵,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "آب طالبی",
+        "imgs": "/imgs/shake.webp",
+        "price": "۷۵,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "آب پرتقال",
+        "imgs": "/imgs/water.webp",
+        "price": "۷۵,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "شیرموز مخصوص",
+        "imgs": "/imgs/shake.webp",
+        "price": "۹۵,۰۰۰"
+      }
+    ]
+  }
+}

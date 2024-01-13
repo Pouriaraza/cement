@@ -1,0 +1,36 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "شیر عسل دارچین",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۷۷,۰۰۰"
+      },
+      {
+        "id": 2,
+        "names": "چای ماسالا",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۷۷,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "هات چاکلت",
+        "imgs": "/imgs/shake.webp",
+        "price": "۸۰,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "وایت چاکلت",
+        "imgs": "/imgs/water.webp",
+        "price": "۸۰,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "هات چاکلت طعم دار",
+        "imgs": "/imgs/shake.webp",
+        "price": "۹۵,۰۰۰"
+      }
+    ]
+  }
+}
