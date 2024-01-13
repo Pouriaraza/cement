@@ -127,6 +127,9 @@ header {
       border-radius: 1rem;
       border: 2px solid rgb(245, 245, 245);
       object-fit: contain;
+      //  for remove
+      opacity: 0.01;
+      //
     }
     .info-item {
       display: flex;

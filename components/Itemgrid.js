@@ -15,20 +15,19 @@ import IceCoffe from './Ice-coffee/IceCoffe';
 const Itemgrid = () => {
     return (
         <div className="items">
-            <Mactels />
-            <Popular />
-            <Shakes />
             <Coffee />
-            <Breakfast />
-            <Drinks />
-            <Food />
-            <Fruitwater />
             <Hotdrink />
-            <Icecream />
+            <IceCoffe />
             <Tea />
+            <Mactels />
+            <Icecream />
+            <Shakes />
+            <Fruitwater />
+            <Breakfast />
+            <Food />
+            <Drinks />
             <Smoke />
             <Vipsmoke />
-            <IceCoffe />
         </div>
     );
 }

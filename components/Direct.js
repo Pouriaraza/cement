@@ -15,8 +15,7 @@ const Direct = () => {
           <img src="./logo1.png" />
         </Link>
         <h1 className='info-h1'>
-          با سپاس از همکاری شما در ساعات پربازدید،
-          مدت زمان استفاده از هر میز یک ساعت و نیم می باشد.
+          خوش آمدید، سِمِنت کافه، یک شروع تازه، یک تیم جوان.
         </h1>
         <div className="direct">
           {menuItems.map(({ url, label }, index) => (
