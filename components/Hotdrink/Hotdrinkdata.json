@@ -3,39 +3,39 @@
     "swiper": [
       {
         "id": 1,
-        "names": "موهیتو",
+        "names": "شیر عسل دارچین",
         "imgs": "/imgs/sperso.jpg",
-        "price": "۹۸,۰۰۰"
+        "price": "۷۷,۰۰۰"
       },
       {
         "id": 2,
-        "names": "رین بو",
+        "names": "چای ماسالا",
         "imgs": "/imgs/amricano.webp",
-        "price": "۴۸,۰۰۰"
+        "price": "۷۷,۰۰۰"
       },
       {
         "id": 3,
-        "names": "رین بو",
+        "names": "هات چاکلت",
         "imgs": "/imgs/shake.webp",
-        "price": "۹۸,۰۰۰"
+        "price": "۸۰,۰۰۰"
       },
       {
         "id": 4,
-        "names": "گرین بلک",
+        "names": "وایت چاکلت",
         "imgs": "/imgs/water.webp",
-        "price": "۹۸,۰۰۰"
+        "price": "۸۰,۰۰۰"
       },
       {
         "id": 5,
-        "names": "پیناکولدا",
+        "names": "هات چاکلت طعم دار",
         "imgs": "/imgs/shake.webp",
-        "price": "۱۱۵,۰۰۰"
+        "price": "۹۵,۰۰۰"
       },
       {
         "id": 6,
-        "names": "بلو هاوایی",
+        "names": "شیربیسکوییت",
         "imgs": "/imgs/shake.webp",
-        "price": "۹۸,۰۰۰"
+        "price": "۹۵,۰۰۰"
       },
       {
         "id": 7,

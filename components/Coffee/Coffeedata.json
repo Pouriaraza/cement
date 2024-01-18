@@ -3,33 +3,63 @@
     "swiper": [
       {
         "id": 1,
-        "names": "شیر عسل دارچین",
+        "names": "اسپرسو",
         "imgs": "/imgs/sperso.jpg",
-        "price": "۷۷,۰۰۰"
+        "price": "۴۷,۰۰۰"
       },
       {
         "id": 2,
-        "names": "چای ماسالا",
+        "names": "اسپرسو دبل",
         "imgs": "/imgs/amricano.webp",
-        "price": "۷۷,۰۰۰"
+        "price": "۶۰,۰۰۰"
       },
       {
         "id": 3,
-        "names": "هات چاکلت",
+        "names": "رومانو",
         "imgs": "/imgs/shake.webp",
-        "price": "۸۰,۰۰۰"
+        "price": "۶۹,۰۰۰"
       },
       {
         "id": 4,
-        "names": "وایت چاکلت",
+        "names": "آمریکانو",
         "imgs": "/imgs/water.webp",
-        "price": "۸۰,۰۰۰"
+        "price": "۶۹,۰۰۰"
       },
       {
         "id": 5,
-        "names": "هات چاکلت طعم دار",
+        "names": "کاپوچینو",
         "imgs": "/imgs/shake.webp",
-        "price": "۹۵,۰۰۰"
+        "price": "۷۷,۰۰۰"
+      },
+      {
+        "id": 6,
+        "names": "لته",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۸۰,۰۰۰"
+      },
+      {
+        "id": 7,
+        "names": "موکا",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۸۸,۰۰۰"
+      },
+      {
+        "id": 3,
+        "names": "کارامل ماکیاتو",
+        "imgs": "/imgs/shake.webp",
+        "price": "۸۸,۰۰۰"
+      },
+      {
+        "id": 4,
+        "names": "لته طعم دار",
+        "imgs": "/imgs/water.webp",
+        "price": "۹۰,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "قهوه ترک",
+        "imgs": "/imgs/shake.webp",
+        "price": "۶۵,۰۰۰"
       }
     ]
   }
