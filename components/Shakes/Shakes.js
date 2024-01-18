@@ -4,7 +4,7 @@ export default function Shakes() {
     const { swiper } = shakes;
     return (
         <div className='items-grid'>
-            <h2 id="shakes">شیک ها</h2>
+            <h2 id="shakes">میلک شیک</h2>
             {swiper.map((shakes) => (
                 <div div key={shakes.id} className='item'>
                     <Image src={shakes.imgs} alt="ok" width={100} height={100} />

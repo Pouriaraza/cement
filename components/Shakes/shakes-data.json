@@ -3,27 +3,39 @@
     "swiper": [
       {
         "id": 1,
-        "names": "میلک شیک لبو",
+        "names": "نوتلا",
         "imgs": "/imgs/shake.webp",
-        "price": "۱۴۰,۰۰۰"
+        "price": "۱۰۵,۰۰۰"
       },
       {
         "id": 2,
-        "names": "میلک شیک شکلات فندقی",
+        "names": "بادام زمینی",
         "imgs": "/imgs/shake.webp",
-        "price": "۱۴۸,۰۰۰"
+        "price": "۱۰۵,۰۰۰"
       },
       {
         "id": 3,
-        "names": "میلک شیک شکلات فندقی موز",
+        "names": "اورئو",
         "imgs": "/imgs/shake.webp",
-        "price": "۱۳۰,۰۰۰"
+        "price": "۱۰۵,۰۰۰"
       },
       {
         "id": 4,
-        "names": "میلک شیک نوتلا موز",
+        "names": "مامی",
         "imgs": "/imgs/shake.webp",
-        "price": "۱۵,۰۰۰"
+        "price": "۱۰۵,۰۰۰"
+      },
+      {
+        "id": 5,
+        "names": "موزوانیل",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۰۵,۰۰۰"
+      },
+      {
+        "id": 6,
+        "names": "لیدی رز",
+        "imgs": "/imgs/shake.webp",
+        "price": "۱۰۵,۰۰۰"
       }
     ]
   }

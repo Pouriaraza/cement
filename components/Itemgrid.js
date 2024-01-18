@@ -17,8 +17,8 @@ const Itemgrid = () => {
         <div className="items">
             <Coffee />
             <Hotdrink />
-            <IceCoffe />
             <Tea />
+            <IceCoffe />
             <Mactels />
             <Icecream />
             <Shakes />

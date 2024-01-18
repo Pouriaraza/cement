@@ -29,11 +29,11 @@ export default function Menucom() {
             <ul>
                 <li><a href='#Coffee'>قهوه</a></li>
                 <li><a href='#Hotdrink'>نوشیدنی های گرم</a></li>
+                <li><a href='#Tea'>چای و دمنوش</a></li>
                 <li><a href="#Icecoffe">قهوه سرد</a></li>
-                <li><a href='#Tea'>چای</a></li>
                 <li><a href='#Mactels'>ماکتل ها</a></li>
                 <li><a href='#Icecream'>بستنی ها</a></li>
-                <li><a href="#shakes">شیک</a></li>
+                <li><a href="#shakes">میلک شیک</a></li>
                 <li><a href='#Fruitwater'>آب میوه طبیعی</a></li>
                 <li><a href='#Breakfast'>صبحانه</a></li>
                 <li><a href='#food'>غذا</a></li>
