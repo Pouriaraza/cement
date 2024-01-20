@@ -1,10 +1,10 @@
 import Image from "next/image";
-import { items } from "./Vipsmokedata.json";
+import { items } from "./Cakedata.json";
 export default function Coffee() {
     const { swiper } = items;
     return (
         <div className='items-grid'>
-            <h2 id="Vipsmoke">قلیان های vip</h2>
+            <h2 id="Cake">کیک</h2>
             {swiper.map((item) => (
                 <div div key={item.id} className='item'>
                     <Image src={item.imgs} alt="ok" width={100} height={100} />
@@ -12,7 +12,7 @@ export default function Coffee() {
                         <h2>{item.names}</h2>
                         <div className='price'>
                             <span>{item.price}</span>
-                            {/* <span>تومان</span> */}
+                            <span>تومان</span>
                         </div>
                     </div>
                 </div>

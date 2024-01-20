@@ -1,0 +1,12 @@
+{
+  "items": {
+    "swiper": [
+      {
+        "id": 1,
+        "names": "کیک روز",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۷۷,۰۰۰"
+      }
+    ]
+  }
+}

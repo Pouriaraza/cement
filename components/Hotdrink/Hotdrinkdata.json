@@ -36,24 +36,6 @@
         "names": "شیربیسکوییت",
         "imgs": "/imgs/shake.webp",
         "price": "۹۵,۰۰۰"
-      },
-      {
-        "id": 7,
-        "names": "گرین دراگون",
-        "imgs": "/imgs/shake.webp",
-        "price": "۱۱۵,۰۰۰"
-      },
-      {
-        "id": 8,
-        "names": "کاکتوس",
-        "imgs": "/imgs/shake.webp",
-        "price": "۱۱۵,۰۰۰"
-      },
-      {
-        "id": 9,
-        "names": "بلومانتین",
-        "imgs": "/imgs/shake.webp",
-        "price": "۱۱۵,۰۰۰"
       }
     ]
   }

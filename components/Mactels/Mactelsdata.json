@@ -15,42 +15,36 @@
       },
       {
         "id": 3,
-        "names": "رین بو",
-        "imgs": "/imgs/shake.webp",
-        "price": "۹۸,۰۰۰"
-      },
-      {
-        "id": 4,
         "names": "گرین بلک",
         "imgs": "/imgs/water.webp",
         "price": "۹۸,۰۰۰"
       },
       {
-        "id": 5,
+        "id": 4,
         "names": "پیناکولدا",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 6,
+        "id": 5,
         "names": "بلو هاوایی",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 7,
+        "id": 6,
         "names": "گرین دراگون",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 8,
+        "id": 7,
         "names": "کاکتوس",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 9,
+        "id": 8,
         "names": "بلومانتین",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"

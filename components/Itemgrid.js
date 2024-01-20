@@ -12,11 +12,13 @@ import Smoke from "./Smoke/Smoke";
 import Tea from "./Tea/Tea";
 import Vipsmoke from "./Vipsmoke/Vipsmoke"
 import IceCoffe from './Ice-coffee/IceCoffe';
+import Cake from "./Cake/Cake"
 const Itemgrid = () => {
     return (
         <div className="items">
             <Coffee />
             <Hotdrink />
+            <Cake />
             <Tea />
             <IceCoffe />
             <Mactels />
