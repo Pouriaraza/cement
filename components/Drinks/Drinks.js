@@ -12,7 +12,7 @@ export default function Coffee() {
                         <h2>{item.names}</h2>
                         <div className='price'>
                             <span>{item.price}</span>
-                            <span>تومان</span>
+                            {/* <span>تومان</span> */}
                         </div>
                     </div>
                 </div>

@@ -45,18 +45,24 @@
       },
       {
         "id": 8,
-        "names": "دوسیب آلبالو",
+        "names": "دوسیب",
         "imgs": "/imgs/water.webp",
         "price": "۱۸۰,۰۰۰"
       },
       {
         "id": 9,
-        "names": "هندوانه نعنا",
+        "names": "دوسیب آلبالو",
         "imgs": "/imgs/water.webp",
         "price": "۱۸۰,۰۰۰"
       },
       {
         "id": 10,
+        "names": "هندوانه نعنا",
+        "imgs": "/imgs/water.webp",
+        "price": "۱۸۰,۰۰۰"
+      },
+      {
+        "id": 11,
         "names": "لیو نعنا",
         "imgs": "/imgs/water.webp",
         "price": "۱۸۰,۰۰۰"
