@@ -5,58 +5,52 @@
         "id": 1,
         "names": "اسپرسو",
         "imgs": "/imgs/sperso.jpg",
-        "price": "۴۷,۰۰۰"
-      },
-      {
-        "id": 2,
-        "names": "اسپرسو دبل",
-        "imgs": "/imgs/amricano.webp",
         "price": "۶۰,۰۰۰"
       },
       {
-        "id": 3,
+        "id": 2,
         "names": "رومانو",
         "imgs": "/imgs/shake.webp",
         "price": "۶۹,۰۰۰"
       },
       {
-        "id": 4,
+        "id": 3,
         "names": "آمریکانو",
         "imgs": "/imgs/water.webp",
         "price": "۶۹,۰۰۰"
       },
       {
-        "id": 5,
+        "id": 4,
         "names": "کاپوچینو",
         "imgs": "/imgs/shake.webp",
-        "price": "۷۷,۰۰۰"
-      },
-      {
-        "id": 6,
-        "names": "لته",
-        "imgs": "/imgs/sperso.jpg",
         "price": "۸۰,۰۰۰"
       },
       {
-        "id": 7,
+        "id": 5,
+        "names": "لته",
+        "imgs": "/imgs/sperso.jpg",
+        "price": "۸۵,۰۰۰"
+      },
+      {
+        "id": 6,
         "names": "موکا",
         "imgs": "/imgs/amricano.webp",
         "price": "۸۸,۰۰۰"
       },
       {
-        "id": 3,
+        "id": 7,
         "names": "کارامل ماکیاتو",
         "imgs": "/imgs/shake.webp",
         "price": "۸۸,۰۰۰"
       },
       {
-        "id": 4,
+        "id": 8,
         "names": "لته طعم دار",
         "imgs": "/imgs/water.webp",
-        "price": "۹۰,۰۰۰"
+        "price": "۹۵,۰۰۰"
       },
       {
-        "id": 5,
+        "id": 9,
         "names": "قهوه ترک",
         "imgs": "/imgs/shake.webp",
         "price": "۶۵,۰۰۰"

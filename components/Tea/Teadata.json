@@ -5,19 +5,19 @@
         "id": 1,
         "names": "چای دمی مخصوص",
         "imgs": "/imgs/sperso.jpg",
-        "price": "۳۵,۰۰۰"
+        "price": "۴۰,۰۰۰"
       },
       {
         "id": 2,
         "names": "چاس سبز",
         "imgs": "/imgs/amricano.webp",
-        "price": "۵۵,۰۰۰"
+        "price": "۶۵,۰۰۰"
       },
       {
         "id": 3,
         "names": "چای ترش",
         "imgs": "/imgs/shake.webp",
-        "price": "۵۵,۰۰۰"
+        "price": "۶۵,۰۰۰"
       },
       {
         "id": 4,

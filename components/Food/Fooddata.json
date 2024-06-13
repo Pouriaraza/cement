@@ -5,13 +5,19 @@
         "id": 1,
         "names": "برگر VIP CEMENT",
         "imgs": "/imgs/sperso.jpg",
-        "price": "به زودی"
+        "price": "۳۵۰,۰۰۰"
       },
       {
         "id": 2,
+        "names": "سالاد سزار",
+        "imgs": "/imgs/amricano.webp",
+        "price": "۲۴۰,۰۰۰"
+      },
+      {
+        "id": 3,
         "names": "سیب زمینی ویژه",
         "imgs": "/imgs/amricano.webp",
-        "price": "به زودی"
+        "price": "۱۹۰,۰۰۰"
       }
     ]
   }

@@ -5,25 +5,25 @@
         "id": 1,
         "names": "شیرموز مخصوص",
         "imgs": "/imgs/shake.webp",
-        "price": "۸۵,۰۰۰ تومان"
+        "price": "۹۵,۰۰۰ تومان"
       },
       {
         "id": 2,
-        "names": "آب هویج",
+        "names": "آب انبه",
         "imgs": "/imgs/sperso.jpg",
-        "price": "به زودی"
+        "price": "۹۵,۰۰۰ تومان"
       },
       {
         "id": 3,
         "names": "آب هندوانه",
         "imgs": "/imgs/amricano.webp",
-        "price": "به زودی"
+        "price": "۸۵,۰۰۰ تومان"
       },
       {
         "id": 4,
         "names": "آب طالبی",
         "imgs": "/imgs/shake.webp",
-        "price": "به زودی"
+        "price": "۸۵,۰۰۰ تومان"
       },
       {
         "id": 5,

@@ -5,19 +5,19 @@
         "id": 1,
         "names": "MY MOON",
         "imgs": "/imgs/sperso.jpg",
-        "price": "به زودی"
+        "price": "۲۸۰,۰۰۰"
       },
       {
         "id": 2,
         "names": "BLACK LIGHT",
         "imgs": "/imgs/amricano.webp",
-        "price": "به زودی"
+        "price": "۲۸۰,۰۰۰"
       },
       {
         "id": 3,
         "names": "GRAY CEMENT",
         "imgs": "/imgs/shake.webp",
-        "price": "به زودی"
+        "price": "۲۸۰,۰۰۰"
       }
     ]
   }
