@@ -15,24 +15,18 @@
       },
       {
         "id": 3,
-        "names": "اورئو",
-        "imgs": "/imgs/shake.webp",
-        "price": "۱۰۵,۰۰۰"
-      },
-      {
-        "id": 4,
         "names": "مامی",
         "imgs": "/imgs/shake.webp",
         "price": "۱۰۵,۰۰۰"
       },
       {
-        "id": 5,
+        "id": 4,
         "names": "موزوانیل",
         "imgs": "/imgs/shake.webp",
         "price": "۱۰۵,۰۰۰"
       },
       {
-        "id": 6,
+        "id": 5,
         "names": "لیدی رز",
         "imgs": "/imgs/shake.webp",
         "price": "۱۰۵,۰۰۰"
