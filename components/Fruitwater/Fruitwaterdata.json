@@ -24,12 +24,6 @@
         "names": "آب طالبی",
         "imgs": "/imgs/shake.webp",
         "price": "۸۵,۰۰۰ تومان"
-      },
-      {
-        "id": 5,
-        "names": "آب پرتقال",
-        "imgs": "/imgs/water.webp",
-        "price": "به زودی"
       }
     ]
   }

@@ -21,30 +21,24 @@
       },
       {
         "id": 4,
-        "names": "پیناکولدا",
-        "imgs": "/imgs/shake.webp",
-        "price": "۱۱۵,۰۰۰"
-      },
-      {
-        "id": 5,
         "names": "بلو هاوایی",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 6,
+        "id": 5,
         "names": "گرین دراگون",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 7,
+        "id": 6,
         "names": "کاکتوس",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
       },
       {
-        "id": 8,
+        "id": 7,
         "names": "بلومانتین",
         "imgs": "/imgs/shake.webp",
         "price": "۱۱۵,۰۰۰"
